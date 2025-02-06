@@ -1,0 +1,10 @@
+[user]
+	name = Jeferson
+	email = jeferson.fg710@gmail.com
+[core]
+	autocrlf = true
+	editor = code --wait
+[init]
+	defaultBranch = main
+[alias]
+	s = status
